@@ -1,0 +1,8 @@
+{
+    "FullName": "Decay Reporter",
+    "Description": "Генерирует JSON-отчёт со всеми тамед-дино и оставшимся временем до unclaim (Этап 1).",
+    "Version": 0.1,
+    "MinApiVersion": 1.0,
+    "Author": "YourName",
+    "Dependencies": []
+}
